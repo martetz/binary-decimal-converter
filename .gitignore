@@ -1,4 +1,7 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# dependencies
+/node_modules
+/package-lock.json
+
+
+# production
+/build
